@@ -10,7 +10,10 @@
 
 - WeatherForecast를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. 외부API 사용(SK open API).
-  2. CoreLocation.
+  2. Codable ,JSNON
+  3. CoreLocation.
+  4. URLSession, dataTask
+  5. GCD
   
 
 ## Contact Me

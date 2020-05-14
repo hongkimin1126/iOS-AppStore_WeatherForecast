@@ -11,7 +11,6 @@
 ## Concept
 ![ex_screenshot]()
 ![ex_screenshot]()
-![ex_screenshot]()
 - 지금줄게은 Swift를 사용하여 제작한 첫번째 팀프로젝트 Application 입니다.
 - 지금줄게를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. URLScheme

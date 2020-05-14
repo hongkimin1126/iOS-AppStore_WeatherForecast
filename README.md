@@ -5,8 +5,8 @@
 - 위치정보르 활용하여 현재지역의 날씨르 자동으로 업데이트.
 
 ## Concept
-<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/날씨앱사진/1.png?raw=true" width="400" height="500">
-<img src="https://https://github.com/hongkimin1126/ImageUpload/blob/master/날씨앱사진/2.png?raw=true" width="400" height="500">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/날씨앱사진/1.png?raw=true" width="400" height="600">
+<img src="https://github.com/hongkimin1126/ImageUpload/blob/master/날씨앱사진/2.png?raw=true" width="400" height="600">
 
 - WeatherForecast를 통해 다음과 같은 내용을 스터디할 수 있었습니다.
   1. 외부API 사용(SK open API).
